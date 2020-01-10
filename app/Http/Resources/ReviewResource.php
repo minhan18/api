@@ -22,7 +22,6 @@ class ReviewResource extends JsonResource
 
             'star' => $this->star
 
-
         ];
     }
 }
